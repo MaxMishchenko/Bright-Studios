@@ -1,0 +1,13 @@
+@keyframes headerGift {
+    0% {
+        height: 0;
+        padding: 0;
+        opacity: 0;
+    }
+
+    100% {
+        height: auto;
+        padding: 8px;
+        opacity: 1;
+    }
+}
